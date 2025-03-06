@@ -1,6 +1,12 @@
 # YouTube Plus (ex. YTLite)
 A flexible enhancer for YouTube on iOS, featuring over hundred customizable options.
 
+This works for both iOS and iPadOS.
+
+Includes a working sponsorblock.
+
+Video playback speed controls are on the left side of the screen.
+
 ## Screenshots
 <table>
    <tr>
